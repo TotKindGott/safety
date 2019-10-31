@@ -82,7 +82,7 @@ printf "\n\n"
 printf "\n\n"
 sleep 1
 echo "--------------------------------------------------------------------"
-echo -e "${RED}!VIRTUAL MACHINES CANNOT RUN MACCHANGER, PLEASE ANSWER ACCORDINLY!${NC}"
+echo -e "${RED}!VIRTUAL MACHINES CANNOT RUN MACCHANGER, PLEASE ANSWER ACCORDINGLY!${NC}"
 echo "--------------------------------------------------------------------"
 printf "\n"
 read -p $'\e[36mAre you on a virtual machine?(y/n):\e[0m ' vm
